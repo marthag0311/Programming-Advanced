@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\bin\Debug\net6.0\12 Greedy Algorithms.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\bin\Debug\net6.0\12 Greedy Algorithms.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\bin\Debug\net6.0\12 Greedy Algorithms.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\bin\Debug\net6.0\12 Greedy Algorithms.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\bin\Debug\net6.0\12 Greedy Algorithms.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\obj\Debug\net6.0\12 Greedy Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\obj\Debug\net6.0\12 Greedy Algorithms.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\obj\Debug\net6.0\12 Greedy Algorithms.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\obj\Debug\net6.0\12 Greedy Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\obj\Debug\net6.0\12 Greedy Algorithms.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\obj\Debug\net6.0\refint\12 Greedy Algorithms.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\obj\Debug\net6.0\12 Greedy Algorithms.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\obj\Debug\net6.0\12 Greedy Algorithms.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\12 Greedy Algorithms\obj\Debug\net6.0\ref\12 Greedy Algorithms.dll
