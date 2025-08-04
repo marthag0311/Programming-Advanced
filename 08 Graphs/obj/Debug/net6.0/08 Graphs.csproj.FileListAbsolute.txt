@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\bin\Debug\net6.0\08 Graphs.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\bin\Debug\net6.0\08 Graphs.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\bin\Debug\net6.0\08 Graphs.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\bin\Debug\net6.0\08 Graphs.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\bin\Debug\net6.0\08 Graphs.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\obj\Debug\net6.0\08 Graphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\obj\Debug\net6.0\08 Graphs.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\obj\Debug\net6.0\08 Graphs.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\obj\Debug\net6.0\08 Graphs.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\obj\Debug\net6.0\08 Graphs.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\obj\Debug\net6.0\refint\08 Graphs.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\obj\Debug\net6.0\08 Graphs.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\obj\Debug\net6.0\08 Graphs.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Graphs\obj\Debug\net6.0\ref\08 Graphs.dll
