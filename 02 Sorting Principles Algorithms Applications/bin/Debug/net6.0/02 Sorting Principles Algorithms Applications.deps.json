@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "02 Sorting Principles Algorithms Applications/1.0.0": {
+        "runtime": {
+          "02 Sorting Principles Algorithms Applications.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02 Sorting Principles Algorithms Applications/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
