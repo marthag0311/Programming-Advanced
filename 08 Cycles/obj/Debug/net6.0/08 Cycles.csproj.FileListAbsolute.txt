@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\bin\Debug\net6.0\08 Cycles.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\bin\Debug\net6.0\08 Cycles.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\bin\Debug\net6.0\08 Cycles.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\bin\Debug\net6.0\08 Cycles.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\bin\Debug\net6.0\08 Cycles.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\obj\Debug\net6.0\08 Cycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\obj\Debug\net6.0\08 Cycles.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\obj\Debug\net6.0\08 Cycles.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\obj\Debug\net6.0\08 Cycles.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\obj\Debug\net6.0\08 Cycles.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\obj\Debug\net6.0\refint\08 Cycles.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\obj\Debug\net6.0\08 Cycles.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\obj\Debug\net6.0\08 Cycles.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\08 Cycles\obj\Debug\net6.0\ref\08 Cycles.dll
