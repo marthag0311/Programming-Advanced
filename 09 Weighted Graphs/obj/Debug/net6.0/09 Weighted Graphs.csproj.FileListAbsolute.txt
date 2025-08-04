@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\bin\Debug\net6.0\09 Weighted Graphs.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\bin\Debug\net6.0\09 Weighted Graphs.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\bin\Debug\net6.0\09 Weighted Graphs.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\bin\Debug\net6.0\09 Weighted Graphs.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\bin\Debug\net6.0\09 Weighted Graphs.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\obj\Debug\net6.0\09 Weighted Graphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\obj\Debug\net6.0\09 Weighted Graphs.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\obj\Debug\net6.0\09 Weighted Graphs.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\obj\Debug\net6.0\09 Weighted Graphs.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\obj\Debug\net6.0\09 Weighted Graphs.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\obj\Debug\net6.0\refint\09 Weighted Graphs.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\obj\Debug\net6.0\09 Weighted Graphs.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\obj\Debug\net6.0\09 Weighted Graphs.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\09 Weighted Graphs\obj\Debug\net6.0\ref\09 Weighted Graphs.dll
