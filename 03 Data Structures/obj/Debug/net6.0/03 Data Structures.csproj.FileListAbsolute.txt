@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\bin\Debug\net6.0\03 Data Structures.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\bin\Debug\net6.0\03 Data Structures.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\bin\Debug\net6.0\03 Data Structures.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\bin\Debug\net6.0\03 Data Structures.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\bin\Debug\net6.0\03 Data Structures.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\obj\Debug\net6.0\03 Data Structures.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\obj\Debug\net6.0\03 Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\obj\Debug\net6.0\03 Data Structures.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\obj\Debug\net6.0\03 Data Structures.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\obj\Debug\net6.0\03 Data Structures.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\obj\Debug\net6.0\03 Data Structures.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\obj\Debug\net6.0\refint\03 Data Structures.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\obj\Debug\net6.0\03 Data Structures.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\obj\Debug\net6.0\03 Data Structures.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\03 Data Structures\obj\Debug\net6.0\ref\03 Data Structures.dll
