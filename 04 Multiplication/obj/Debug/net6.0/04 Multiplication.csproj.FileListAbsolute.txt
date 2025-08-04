@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\obj\Debug\net6.0\04 Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\obj\Debug\net6.0\04 Multiplication.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\obj\Debug\net6.0\04 Multiplication.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\obj\Debug\net6.0\04 Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\bin\Debug\net6.0\04 Multiplication.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\bin\Debug\net6.0\04 Multiplication.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\bin\Debug\net6.0\04 Multiplication.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\bin\Debug\net6.0\04 Multiplication.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\bin\Debug\net6.0\04 Multiplication.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\obj\Debug\net6.0\04 Multiplication.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\obj\Debug\net6.0\refint\04 Multiplication.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\obj\Debug\net6.0\04 Multiplication.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\obj\Debug\net6.0\04 Multiplication.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\04 Multiplication\obj\Debug\net6.0\ref\04 Multiplication.dll
