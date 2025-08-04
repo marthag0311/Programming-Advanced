@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\bin\Debug\net6.0\words.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\bin\Debug\net6.0\01 Nth Character.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\bin\Debug\net6.0\01 Nth Character.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\bin\Debug\net6.0\01 Nth Character.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\bin\Debug\net6.0\01 Nth Character.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\bin\Debug\net6.0\01 Nth Character.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\obj\Debug\net6.0\01 Nth Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\obj\Debug\net6.0\01 Nth Character.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\obj\Debug\net6.0\01 Nth Character.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\obj\Debug\net6.0\01 Nth Character.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\obj\Debug\net6.0\01 Nth Character.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\obj\Debug\net6.0\refint\01 Nth Character.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\obj\Debug\net6.0\01 Nth Character.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\obj\Debug\net6.0\01 Nth Character.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\01 Nth Character\obj\Debug\net6.0\ref\01 Nth Character.dll
