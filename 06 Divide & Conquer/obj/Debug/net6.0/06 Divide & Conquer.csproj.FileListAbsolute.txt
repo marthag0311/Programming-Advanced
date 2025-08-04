@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\bin\Debug\net6.0\06 Divide & Conquer.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\bin\Debug\net6.0\06 Divide & Conquer.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\bin\Debug\net6.0\06 Divide & Conquer.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\bin\Debug\net6.0\06 Divide & Conquer.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\bin\Debug\net6.0\06 Divide & Conquer.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\obj\Debug\net6.0\06 Divide & Conquer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\obj\Debug\net6.0\06 Divide & Conquer.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\obj\Debug\net6.0\06 Divide & Conquer.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\obj\Debug\net6.0\06 Divide & Conquer.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\obj\Debug\net6.0\06 Divide & Conquer.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\obj\Debug\net6.0\refint\06 Divide & Conquer.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\obj\Debug\net6.0\06 Divide & Conquer.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\obj\Debug\net6.0\06 Divide & Conquer.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\06 Divide & Conquer\obj\Debug\net6.0\ref\06 Divide & Conquer.dll
