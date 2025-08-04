@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\bin\Debug\net6.0\names.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\bin\Debug\net6.0\02 Where is Wally - Reseach Assignment.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\bin\Debug\net6.0\02 Where is Wally - Reseach Assignment.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\bin\Debug\net6.0\02 Where is Wally - Reseach Assignment.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\bin\Debug\net6.0\02 Where is Wally - Reseach Assignment.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\bin\Debug\net6.0\02 Where is Wally - Reseach Assignment.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\obj\Debug\net6.0\02 Where is Wally - Reseach Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\obj\Debug\net6.0\02 Where is Wally - Reseach Assignment.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\obj\Debug\net6.0\02 Where is Wally - Reseach Assignment.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\obj\Debug\net6.0\02 Where is Wally - Reseach Assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\obj\Debug\net6.0\02 Where is Wally - Reseach Assignment.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\obj\Debug\net6.0\refint\02 Where is Wally - Reseach Assignment.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\obj\Debug\net6.0\02 Where is Wally - Reseach Assignment.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\obj\Debug\net6.0\02 Where is Wally - Reseach Assignment.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\02 Where is Wally - Reseach Assignment\obj\Debug\net6.0\ref\02 Where is Wally - Reseach Assignment.dll
