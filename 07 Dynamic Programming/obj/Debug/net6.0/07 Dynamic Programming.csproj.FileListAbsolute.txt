@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\bin\Debug\net6.0\07 Dynamic Programming.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\bin\Debug\net6.0\07 Dynamic Programming.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\bin\Debug\net6.0\07 Dynamic Programming.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\bin\Debug\net6.0\07 Dynamic Programming.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\bin\Debug\net6.0\07 Dynamic Programming.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\obj\Debug\net6.0\07 Dynamic Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\obj\Debug\net6.0\07 Dynamic Programming.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\obj\Debug\net6.0\07 Dynamic Programming.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\obj\Debug\net6.0\07 Dynamic Programming.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\obj\Debug\net6.0\07 Dynamic Programming.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\obj\Debug\net6.0\refint\07 Dynamic Programming.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\obj\Debug\net6.0\07 Dynamic Programming.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\obj\Debug\net6.0\07 Dynamic Programming.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Programming Advanced\07 Dynamic Programming\obj\Debug\net6.0\ref\07 Dynamic Programming.dll
